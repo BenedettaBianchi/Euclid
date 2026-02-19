@@ -6,6 +6,6 @@ Author@R: c(person(given="Benedetta", family="Bianchi", email = "benedetta.bianc
 Description: compute the euclidean distance between two points
 Depends: R (>= 3.4.0)
 License: GPL-2
-Author: Benedetta Bianchi [aut, cre],
+Author: Benedetta Bianchi [aut, cre]
 Maintainer: Benedetta Bianchi <benedetta.bianchi@phd.unipi.it>
 RoxygenNote: 7.3.3
