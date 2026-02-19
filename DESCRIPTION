@@ -1,0 +1,11 @@
+Package: Eudis
+Type: Package
+Title: Euclidean distance
+Version: 0.1
+Author@R: c(person(given="Benedetta", family="Bianchi", email = "benedetta.bianchi@phd.unipi.it", role=c("aut","cre")
+Description: compute the euclidean distance between two points
+Depends: R (>= 3.4.0)
+License: GPL-2
+Author: Benedetta Bianchi [aut, cre],
+Maintainer: Benedetta Bianchi <benedetta.bianchi@phd.unipi.it>
+RoxygenNote: 7.3.3
